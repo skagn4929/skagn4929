@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ki%20Nam%20Hoo&fontSize=100)   
-I am trying to become a nice developer
+I am trying to become a nice developer 😎
 
 # Skills and Experience
 ### 📋 Languages  
